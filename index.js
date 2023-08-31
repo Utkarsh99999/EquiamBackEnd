@@ -45,7 +45,6 @@ mongoose
   .connect(URL,{ useNewUrlParser: true, useUnifiedTopology: true })
   .then(() => {
     app.listen(PORT, () => console.log(`Server started Port: ${PORT}`));
-    // User.insertMany(data);
   })
   .catch((error) => console.log(`${error} did not connect`));
 
