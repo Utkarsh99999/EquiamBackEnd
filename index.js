@@ -9,8 +9,6 @@ import path from "path";
 import cors from "cors";
 import { fileURLToPath } from "url";
 import {getUserData} from "./controller/controller.js";
-// import User from "./models/userModal.js";
-// import {data} from './data.js';
 
 /* CONFIGURATIONS */
 const __filename = fileURLToPath(import.meta.url);
