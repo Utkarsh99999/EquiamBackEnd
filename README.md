@@ -25,7 +25,7 @@ After successfuly runnign the backend you will get the message of backend servic
 Now you can check your front end and try refreshing it you will observ everyting working fine as expected
 
 Thank you for viting repo for any querry you can contact me on linked , insta ,facebook watsaap or anywhere from directly visiting my protfolio app
-PROFOLIO APP LINK :-
+PROFOLIO APP LINK :- https://utkarshportfolio-rpf0.onrender.com/
 
 
 
